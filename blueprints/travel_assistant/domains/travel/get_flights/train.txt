@@ -1,0 +1,190 @@
+Check flights
+are there any flights
+Suggest flights
+Please find flights
+Tell me about flights
+Is it possible to get flight
+Is there any flight
+I want to go by flight
+Will I find a flight
+Suggest me flights
+Get flights
+Can I get a flight
+Flights 
+Find flights
+get me {4|sys_number} flights from {Bhojpur|location|source} to {Chamarajnagar|location|destination}
+Please find flights in {Economy|flight_class}
+Get flights for me in {business|flight_class}
+flights for {4|sys_number} persons
+flights for {5|sys_number} people  in {First Class|flight_class}
+are there any flights for {88|sys_number} people
+Suggest flights for {7|sys_number} people  in {executive|flight_class}
+Please find flights for {78|sys_number} people
+Tell me about flights for {45|sys_number} people 
+Is it possible to get flight for {42|sys_number} people
+Will I get a flight for {65|sys_number} people in {business Class|flight_class}
+Is there any flight for {11|sys_number} people
+We {65|sys_number} people  want to go by flight
+Will I find a flight for {18|sys_number} people  in {Executive Class|flight_class}
+Suggest me flights for {31|sys_number} people
+Get flights for {56|sys_number} people  in {First Class|flight_class}
+Can I get a flight for {1|sys_number} people
+Flights for {13|sys_number}  people
+Find flights for {85|sys_number} people
+Please find flights for {71|sys_number} people in {First|flight_class}
+Get flights for {11|sys_number} people
+{11|sys_number} people are there to travel by flight  in {executive class|flight_class}
+flights arriving {sunday|sys_time|arrival}
+flights leaving {sunday|sys_time|departure}  in {First|flight_class}
+Check flights  arriving {sunday|sys_time|arrival}
+are there any flights  arriving {tuesday|sys_time|arrival}
+Suggest flights  arriving {thursday|sys_time|arrival}  in {Executive Class|flight_class}
+Please find flights  arriving {wednesday|sys_time|arrival}
+Tell me about flights  arriving {tuesday|sys_time|arrival} in {executive|flight_class}
+Is it possible to get flight  arriving {thursday|sys_time|arrival}
+Is there any flight  arriving {tuesday|sys_time|arrival}
+I want to go by flight  arriving {wednesday|sys_time|arrival}  in {Economy|flight_class}
+Will I find a flight   arriving {tuesday|sys_time|arrival}
+Suggest me flights  arriving {tuesday|sys_time|arrival}  in {First Class|flight_class}
+Get flights  arriving {sunday|sys_time|arrival}
+Can I get a flight  arriving {tuesday|sys_time|arrival}
+Flights  arriving {sunday|sys_time|arrival}
+Find flights arriving {saturday|sys_time|arrival}
+Please find flights arriving {sunday|sys_time|arrival}
+Get flights for me arriving {sunday|sys_time|arrival}
+Check flights leaving {thursday|sys_time|departure} in {business|flight_class}
+are there any flights leaving {thursday|sys_time|departure}
+Suggest flights leaving {saturday|sys_time|departure}
+Please find flights leaving {thursday|sys_time|departure}
+Tell me about flights leaving {thursday|sys_time|departure}
+Is it possible to get flight leaving {thursday|sys_time|departure}
+Is there any flight leaving {monday|sys_time|departure}
+I want to go by flight leaving {sunday|sys_time|departure}  in {First|flight_class}
+Will I find a flight leaving {friday|sys_time|departure}  in {Executive Class|flight_class}
+Suggest me flights leaving {sunday|sys_time|departure}
+Get flights leaving {friday|sys_time|departure}
+Can I get a flight leaving {monday|sys_time|departure}  in {First Class|flight_class}
+Flights  leaving {thursday|sys_time|departure}  in {Economy Class|flight_class}
+Find flights leaving {tuesday|sys_time|departure}
+Please find flights leaving {friday|sys_time|departure}
+Get flights for me leaving {friday|sys_time|departure}
+Check flights departing {tuesday|sys_time|departure}
+are there any flights departing {monday|sys_time|departure}
+Suggest flights departing {friday|sys_time|departure}
+Please find flights departing {thursday|sys_time|departure}
+Tell me about flights departing {sunday|sys_time|departure}
+Is it possible to get flight departing {wednesday|sys_time|departure}  in {Economy|flight_class}
+Is there any flight departing {monday|sys_time|departure}
+I want to go by flight departing {monday|sys_time|departure} in {Economy Class|flight_class}
+Will I find a flight departing {tuesday|sys_time|departure}
+Suggest me flights departing {monday|sys_time|departure}
+Get flights departing {friday|sys_time|departure}
+Can I get a flight departing {wednesday|sys_time|departure}  in {Executive Class|flight_class}
+Flights  departing {thursday|sys_time|departure}
+Find flights departing {sunday|sys_time|departure}
+Please find flights departing {sunday|sys_time|departure} in {business|flight_class}
+Get flights for me departing {saturday|sys_time|departure}
+flights arriving {sunday|sys_time|arrival}  for {64|sys_number}  people in {business class|flight_class}
+flights leaving {wednesday|sys_time|departure} for {36|sys_number}  people
+Check flights  arriving {wednesday|sys_time|arrival} for {66|sys_number}  people
+are there any flights  arriving {tuesday|sys_time|arrival} for {12|sys_number}  people
+Suggest flights  arriving {saturday|sys_time|arrival} for {76|sys_number}  people
+Please find flights  arriving {saturday|sys_time|arrival} for {76|sys_number}  people in {business class|flight_class}
+Tell me about flights  arriving {thursday|sys_time|arrival} for {43|sys_number}  people
+Is it possible to get flight  arriving {sunday|sys_time|arrival} for {81|sys_number}  people
+Is there any flight  arriving {tuesday|sys_time|arrival} for {54|sys_number}  people {business class|flight_class}
+I want to go by flight  arriving {saturday|sys_time|arrival} for {19|sys_number}  people
+Will I find a flight   arriving {saturday|sys_time|arrival} for {64|sys_number}  people
+Suggest me flights  arriving {saturday|sys_time|arrival} for {44|sys_number}  people  in {executive class|flight_class}
+Get flights  arriving {tuesday|sys_time|arrival} for {93|sys_number}  people  in {business|flight_class}
+Can I get a flight  arriving {thursday|sys_time|arrival} for {21|sys_number}  people
+Flights  arriving {saturday|sys_time|arrival} for {49|sys_number}  people
+Find flights arriving {thursday|sys_time|arrival} for {91|sys_number}  people  in {executive class|flight_class}
+Please find flights arriving {sunday|sys_time|arrival} for {16|sys_number}  people
+Get flights for me arriving {tuesday|sys_time|arrival} for {17|sys_number}  people  in {Premium economy|flight_class}
+Check flights leaving {monday|sys_time|departure} for {24|sys_number}  people
+are there any flights leaving {sunday|sys_time|departure} for {40|sys_number}  people
+Suggest flights leaving {sunday|sys_time|departure} for {81|sys_number}  people
+Please find flights leaving {saturday|sys_time|departure} for {72|sys_number}  people
+Tell me about flights leaving {monday|sys_time|departure} for {58|sys_number}  people  in {First|flight_class}
+Is it possible to get flight leaving {monday|sys_time|departure} for {15|sys_number}  people
+Is there any flight leaving {sunday|sys_time|departure} for {11|sys_number}  people
+I want to go by flight leaving {monday|sys_time|departure} for {98|sys_number}  people
+Will I find a flight leaving {sunday|sys_time|departure} for {13|sys_number}  people
+Suggest me flights leaving {monday|sys_time|departure} for {93|sys_number}  people
+Get flights leaving {saturday|sys_time|departure} for {12|sys_number}  people
+Can I get a flight leaving {friday|sys_time|departure} for {46|sys_number}  people
+Flights  leaving {sunday|sys_time|departure} for {66|sys_number}  people
+Find flights leaving {sunday|sys_time|departure} for {90|sys_number}  people
+Please find flights leaving {wednesday|sys_time|departure} for {41|sys_number}  people
+Get flights for me leaving {wednesday|sys_time|departure} for {52|sys_number}  people
+Check flights departing {monday|sys_time|departure} for {9|sys_number}  people
+are there any flights departing {sunday|sys_time|departure} for {6|sys_number}  people
+Suggest flights departing {friday|sys_time|departure} for {52|sys_number}  people
+Please find flights departing {monday|sys_time|departure} for {27|sys_number}  people
+Tell me about flights departing {thursday|sys_time|departure} for {35|sys_number}  people
+Is it possible to get flight departing {wednesday|sys_time|departure} for {96|sys_number}  people
+Is there any flight departing {monday|sys_time|departure} for {1|sys_number}  people
+I want to go by flight departing {thursday|sys_time|departure} for {56|sys_number}  people  in {Premium economy|flight_class}
+Will I find a flight departing {friday|sys_time|departure} for {12|sys_number}  people
+Suggest me flights departing {thursday|sys_time|departure} for {42|sys_number}  people
+Get flights departing {friday|sys_time|departure} for {26|sys_number}  people
+Can I get a flight departing {sunday|sys_time|departure} for {74|sys_number}  people
+Flights  departing {tuesday|sys_time|departure} for {32|sys_number}  people
+Find flights departing {saturday|sys_time|departure} for {48|sys_number}  people  in {Premium economy|flight_class}
+Please find flights departing {thursday|sys_time|departure} for {63|sys_number}  people
+Get flights for me departing {wednesday|sys_time|departure} for {12|sys_number}  people
+Is flights available from {Shamli|location|source} to {Shravasti|location|destination}
+Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination}
+Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination} in {Premium economy|flight_class}
+flightss  between {Chatra|location|source} and {Thanjavur|location|destination}
+Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination}
+How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination}  in {Premium|flight_class}
+Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}
+Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination}
+Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination}
+Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination}
+Is domestic flight available from {Kannauj|location|source} to {Dhemaji|location|destination}
+Will I get a plane from {Solapur|location|source} to {Kurukshetra|location|destination}
+How to get a plane from from {Lucknow|location|source} to {Chandigarh|location|destination}
+Possibility of plane from {Garhwa|location|source} to {Aizawl|location|destination}
+Is departures available from {Bhojpur|location|source} to {Chamarajnagar|location|destination}  in {First Class|flight_class}
+Is there a flight between {Kanchipuram|location|source} and {Dharwad|location|destination}
+Facilities for travelling by flight  between {Hingoli|location|source} and {Erode|location|destination}
+departure  between {Gadag|location|source} and {Anand|location|destination}
+Is there a way by flight  between {East Sikkim|location|source} and {Palakkad|location|destination}
+Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination}  for {79|sys_number}  people
+How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} for {54|sys_number}  people
+Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination} for {82|sys_number}  people
+Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} for {10|sys_number}  people
+Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} for {20|sys_number}  people
+Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} for {63|sys_number}  people  in {Premium|flight_class}
+Is domestic flight available from {Kannauj|location|source} to {Dhemaji|location|destination} for {27|sys_number}  people
+Will I get a plane from {Solapur|location|source} to {Kurukshetra|location|destination}  for {3|sys_number}  people
+How to get a plane from from {Lucknow|location|source} to {Chandigarh|location|destination} departing {saturday|sys_time|departure}
+Possibility of plane from {Garhwa|location|source} to {Aizawl|location|destination} departing {tuesday|sys_time|departure}
+Is departures available from {Bhojpur|location|source} to {Chamarajnagar|location|destination} departing {wednesday|sys_time|departure}
+Is there a flight between {Kanchipuram|location|source} and {Dharwad|location|destination} departing {friday|sys_time|departure}
+Facilities for travelling by flight  between {Hingoli|location|source} and {Erode|location|destination} departing {thursday|sys_time|departure}
+departure  between {Gadag|location|source} and {Anand|location|destination} departing {saturday|sys_time|departure}
+Is there a way by flight  between {East Sikkim|location|source} and {Palakkad|location|destination} departing {wednesday|sys_time|departure} arriving {saturday|sys_time|arrival}
+Is flights available from {Shamli|location|source} to {Shravasti|location|destination} arriving {saturday|sys_time|arrival}
+Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination} arriving {monday|sys_time|arrival}
+Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination} arriving {saturday|sys_time|arrival}
+flightss  between {Chatra|location|source} and {Thanjavur|location|destination} arriving {sunday|sys_time|arrival}
+Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination} arriving {tuesday|sys_time|arrival}  in {Premium Economy|flight_class}
+How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} arriving {friday|sys_time|arrival}
+Is flight available from {Shamli|location|source} to {Shravasti|location|destination} departing {sunday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {76|sys_number}  people in {business|flight_class}
+Is there a flights between {Idukki|location|source} and {Lower Subansiri|location|destination} departing {friday|sys_time|departure} and arriving {wednesday|sys_time|arrival}  for {5|sys_number}  people  in {Premium|flight_class}
+Facilities for travelling by flights  between {Lakhimpur|location|source} and {Marigaon|location|destination} departing {monday|sys_time|departure} and arriving {sunday|sys_time|arrival}  for {55|sys_number}  people
+flightss  between {Chatra|location|source} and {Thanjavur|location|destination}   in {Economy Class|flight_class}
+Is there a way by flights  between {Muzaffarnagar|location|source} and {North Sikkim|location|destination} departing {thursday|sys_time|departure} and arriving {sunday|sys_time|arrival}  for {55|sys_number}  people   in {Economy Class|flight_class}
+How to travel by flights  between {Neemuch|location|source} and {Lakhimpur Kheri|location|destination} departing {monday|sys_time|departure} and arriving {monday|sys_time|arrival}  for {41|sys_number}  people in {business|flight_class}
+Tell me how to travel by flights  between {Yadgir|location|source} and {Raisen|location|destination}  departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {19|sys_number}  people
+Can I travel by flights  between {Kalahandi|location|source} and {Mahendragarh|location|destination} departing {sunday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {68|sys_number}  people
+Is there any flights available between {Wayanad|location|source} and {Bangalore Urban|location|destination} departing {sunday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {15|sys_number}  people
+Can I take a domestic flight from {Khandwa (East Nimar)|location|source} to {Balaghat|location|destination} departing {friday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {61|sys_number}  people
+Is domestic flight available from {Kannauj|location|source} to {Dhemaji|location|destination} departing {thursday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {61|sys_number}  people
+Will I get a plane from {Solapur|location|source} to {Kurukshetra|location|destination} departing {saturday|sys_time|departure} and arriving {thursday|sys_time|arrival}  for {52|sys_number}  people
+How to get a plane from from {Lucknow|location|source} to {Chandigarh|location|destination} departing {wednesday|sys_time|departure} and arriving {tuesday|sys_time|arrival}  for {88|sys_number}  people
+Possibility of plane from {Garhwa|location|source} to {Aizawl|location|destination} departing {tuesday|sys_time|departure} and arriving {saturday|sys_time|arrival}  for {60|sys_number}   people in {business|flight_class}
